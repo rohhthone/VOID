@@ -1,0 +1,24 @@
+@import url(variable.css);
+@import url(clear.css);
+@import url(module.css);
+@import url(animation.css);
+
+/* Basics */
+*{margin: 0; padding: 0;}
+
+/* Blocks */
+style{display: none;}
+script{display: none;}
+
+html.void{display: flex; align-items: center; justify-content: space-around; flex-direction: column; width: 100%; height: AUTO; font-size: var(--BIN4); font-family: SYSTEM-UI; background: var(--background); color: var(--foreground);}
+body.matter{display: flex; align-items: center; justify-content: space-around; flex-direction: column; font-size: 1.2EM;}
+.matter>#head{display: flex; align-items: center; justify-content: space-around;}
+
+#head {
+  display: flex;
+}
+#body{display: flex; align-items: center;flex-direction: column;}
+.vertical{
+  flex-direction: column;
+}
+.hidden{display: none;}

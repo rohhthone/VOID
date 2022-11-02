@@ -1,0 +1,3 @@
+.underline.menu>a{position: relative;display: flex; align-items: center; justify-content: center;}
+.underline.menu>a::after{content:"";transition: 0.53s;width: 0%; height: 1px; position: absolute; background-color: var(--foreground); bottom: 0; opacity: 0;}
+.underline.menu>a:hover::after{content:"";transition: 0.4s;width: 100%; height: 1px; position: absolute; background-color: var(--foreground); bottom: 0; opacity: 0.6;}
