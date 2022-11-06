@@ -4,20 +4,24 @@ void api is the open-source to improve web.dev
 <h2>Installation:</h2>
 <li>Paste these between head tags in .html extension put these lines.</li><br>
 
-link rel="stylesheet" href="https://rohhthone.github.io/VOID/000001/ro.css"
-link rel="stylesheet" href="https://rohhthone.github.io/VOID/000001/variable.css"
-link rel="stylesheet" href="https://rohhthone.github.io/VOID/000001/clear.css"
-link rel="stylesheet" href="https://rohhthone.github.io/VOID/000001/module.css"
-link rel="stylesheet" href="https://rohhthone.github.io/VOID/000001/animation.css"
+```
+<link rel="stylesheet" href="https://rohhthone.github.io/VOID/000001/ro.css">
+<link rel="stylesheet" href="https://rohhthone.github.io/VOID/000001/variable.css">
+<link rel="stylesheet" href="https://rohhthone.github.io/VOID/000001/clear.css">
+<link rel="stylesheet" href="https://rohhthone.github.io/VOID/000001/module.css">
+<link rel="stylesheet" href="https://rohhthone.github.io/VOID/000001/animation.css">
+```
 
 <h2>Local installation:</h2>
 <li>Download and install to the folder of your website and add these between head tags as. It will improve perfomance.</li><br>
 
-link rel="stylesheet" href="./VOID/000001/ro.css"
-link rel="stylesheet" href="./VOID/000001/variable.css"
-link rel="stylesheet" href="./VOID/000001/clear.css"
-link rel="stylesheet" href="./VOID/000001/module.css"
-link rel="stylesheet" href="./VOID/000001/animation.css"
+```
+<link rel="stylesheet" href="./VOID/000001/ro.css">
+<link rel="stylesheet" href="./VOID/000001/variable.css">
+<link rel="stylesheet" href="./VOID/000001/clear.css">
+<link rel="stylesheet" href="./VOID/000001/module.css">
+<link rel="stylesheet" href="./VOID/000001/animation.css">
+```
 
 <br>
 <h2>General parts of VOID API: </h2>
