@@ -21,4 +21,12 @@ body.matter{display: flex; align-items: center; justify-content: space-around; f
 .vertical{
   flex-direction: column;
 }
+
 .hidden{display: none;}
+
+@media screen and (max-width:100vh) {
+  .desktop{display: none;}
+}
+@media screen and (max-width:100vw) {
+  .phone{display: none;}
+}
