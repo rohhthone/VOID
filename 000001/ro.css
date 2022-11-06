@@ -27,6 +27,6 @@ body.matter{display: flex; align-items: center; justify-content: space-around; f
 @media screen and (max-width:100vh) {
   .desktop{display: none;}
 }
-@media screen and (max-width:100vw) {
+@media screen and (max-height:100vw)  {
   .phone{display: none;}
 }
